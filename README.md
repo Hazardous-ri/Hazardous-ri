@@ -14,6 +14,9 @@ ECE Undergraduate at IIIT Una • Web Developer • DSA Learner • ML Enthusias
 ![GitHub Streak](https://streak-stats.demolab.com?user=Hazardous-ri&theme=tokyonight)
 
 ---
+## 🐍 Contribution Graph
+
+![Snake Animation](https://raw.githubusercontent.com/Hazardous-ri/Hazardous-ri/output/github-contribution-grid-snake.svg)
 
 ## 🚀 About Me
 
