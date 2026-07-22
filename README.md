@@ -3,6 +3,13 @@
 <h3 align="center">
 ECE Undergraduate at IIIT Una • Web Developer • DSA Learner • ML Enthusiast
 </h3>
+## 📊 GitHub Stats
+
+![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazardous-ri&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazardous-ri&layout=compact&theme=tokyonight)
+
+
 
 ---
 
